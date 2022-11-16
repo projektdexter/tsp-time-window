@@ -9,6 +9,7 @@ The [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_sales
 1. **_matrix_**: is a **_NxN_** cost matrix between the points that have to be visited by the nodes with 2 requirements:
 
  a. The row and column index of this matrix should be **INTEGER**
+ 
  b. Depot is indexed by 0, i.e. Row 0 represents the Depot. 
 
 ##### Example:
